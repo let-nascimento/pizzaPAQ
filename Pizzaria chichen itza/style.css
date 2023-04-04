@@ -1,0 +1,69 @@
+body {
+    background: white;
+    color:black;
+}
+
+header{
+    background:rgb(223, 19, 19); 
+    height: 200px;
+    width: 100%;
+    display: inline-block;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.caixa img {
+    height: 140px;
+    width: 200px;
+    display: inline;
+}
+
+
+.semana {
+    display: inline-block;
+}
+
+.lista{
+    list-style-type: none;
+
+}
+
+.lista li {
+    display: inline-block;
+    background:rgb(224, 27, 27); 
+    color: white;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+
+#pzz1 {
+    width: 200px;
+    height: 200px;
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+
+footer {
+    background: rgb(223, 19, 19);
+    height: 100px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
